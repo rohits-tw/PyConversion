@@ -1,0 +1,2035 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_swagger_view",
+        "importPath": "rest_framework_swagger.views",
+        "description": "rest_framework_swagger.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_swagger.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "accounts",
+        "description": "accounts",
+        "isExtraImport": true,
+        "detail": "accounts",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "isExtraImport": true,
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "Currency_convert",
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "isExtraImport": true,
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "Currency_convert",
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "isExtraImport": true,
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserFileUpload",
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "isExtraImport": true,
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserFileUpload",
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "isExtraImport": true,
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "AutoSchema",
+        "importPath": "rest_framework.schemas",
+        "description": "rest_framework.schemas",
+        "isExtraImport": true,
+        "detail": "rest_framework.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "AutoSchema",
+        "importPath": "rest_framework.schemas",
+        "description": "rest_framework.schemas",
+        "isExtraImport": true,
+        "detail": "rest_framework.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "coreapi",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "coreapi",
+        "description": "coreapi",
+        "detail": "coreapi",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "pdf2docx",
+        "description": "pdf2docx",
+        "isExtraImport": true,
+        "detail": "pdf2docx",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "pdf2docx",
+        "description": "pdf2docx",
+        "isExtraImport": true,
+        "detail": "pdf2docx",
+        "documentation": {}
+    },
+    {
+        "label": "aspose.words",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aspose.words",
+        "description": "aspose.words",
+        "detail": "aspose.words",
+        "documentation": {}
+    },
+    {
+        "label": "HtmlToDocx",
+        "importPath": "htmldocx",
+        "description": "htmldocx",
+        "isExtraImport": true,
+        "detail": "htmldocx",
+        "documentation": {}
+    },
+    {
+        "label": "HtmlToDocx",
+        "importPath": "htmldocx",
+        "description": "htmldocx",
+        "isExtraImport": true,
+        "detail": "htmldocx",
+        "documentation": {}
+    },
+    {
+        "label": "pdfkit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfkit",
+        "description": "pdfkit",
+        "detail": "pdfkit",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentConvertView",
+        "importPath": "apis.document_api.api",
+        "description": "apis.document_api.api",
+        "isExtraImport": true,
+        "detail": "apis.document_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentConvertGetData",
+        "importPath": "apis.document_api.api",
+        "description": "apis.document_api.api",
+        "isExtraImport": true,
+        "detail": "apis.document_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyConvertView",
+        "importPath": "apis.currency_api.api",
+        "description": "apis.currency_api.api",
+        "isExtraImport": true,
+        "detail": "apis.currency_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyConvertGetData",
+        "importPath": "apis.currency_api.api",
+        "description": "apis.currency_api.api",
+        "isExtraImport": true,
+        "detail": "apis.currency_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "currency",
+        "description": "currency",
+        "isExtraImport": true,
+        "detail": "currency",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "docum",
+        "description": "docum",
+        "isExtraImport": true,
+        "detail": "docum",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "debug_task",
+        "kind": 2,
+        "importPath": "PyConversion.celery",
+        "description": "PyConversion.celery",
+        "peekOfCode": "def debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "PyConversion.celery",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "PyConversion.celery",
+        "description": "PyConversion.celery",
+        "peekOfCode": "app = Celery('PyConversion')\napp.config_from_object('django.conf:settings', namespace='CELERY')\n# Load task modules from all registered Django apps.\napp.autodiscover_tasks()\n@app.task(bind=True)\ndef debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "PyConversion.celery",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '+k+etrd_u++#l3xl7rf1knr_y@z2zryolzy2lrvey_0jm+uqrr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "SECRET_KEY = '+k+etrd_u++#l3xl7rf1knr_y@z2zryolzy2lrvey_0jm+uqrr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework_swagger',\n    'apis',",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SWAGGER_SETTINGS",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "SWAGGER_SETTINGS = {\n    \"exclude_namespaces\": ['rest_logout', ],  # List URL namespaces to ignore\n    \"SUPPORTED_SUBMIT_METHODS\": [  # Specify which methods to enable in Swagger UI\n        'get',\n        'post',\n        'put',\n        'delete'\n    ],\n    'SECURITY_DEFINITIONS': {\n        'api_key': {",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "REST_FRAMEWORK = {'DEFAULT_SCHEMA_CLASS':'rest_framework.schemas.coreapi.AutoSchema',\n                  }\n# REST_FRAMEWORK = {\n#     'DEFAULT_AUTHENTICATION_CLASSES': [\n#         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'\n#     ],\n# }\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'PyConversion.urls'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "ROOT_URLCONF = 'PyConversion.urls'\nTEMP_DIR = os.path.join(BASE_DIR, 'templates')\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [TEMP_DIR],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMP_DIR",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "TEMP_DIR = os.path.join(BASE_DIR, 'templates')\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [TEMP_DIR],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [TEMP_DIR],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'PyConversion.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "STATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "STATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "EMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "EMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BROKER_URL",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "BROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_BACKEND",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "CELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_ANNOTATIONS",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "CELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_ACCEPT_CONTENT",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "CELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_SERIALIZER",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "CELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_TASK_SERIALIZER",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "CELERY_TASK_SERIALIZER = 'json'",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "PyConversion.urls",
+        "description": "PyConversion.urls",
+        "peekOfCode": "schema_view = get_swagger_view(title='Currency Conversion API')\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('accounts.urls')),\n    path('currency/',include('currency.urls')),\n    path('documents/',include('docum.urls')),\n    path('api/',include('apis.urls')),\n    path('docs/', schema_view),\n]",
+        "detail": "PyConversion.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "PyConversion.urls",
+        "description": "PyConversion.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('accounts.urls')),\n    path('currency/',include('currency.urls')),\n    path('documents/',include('docum.urls')),\n    path('api/',include('apis.urls')),\n    path('docs/', schema_view),\n]",
+        "detail": "PyConversion.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "PyConversion.wsgi",
+        "description": "PyConversion.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "PyConversion.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0001_initial",
+        "description": "accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserContactDetails',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('first_name', models.CharField(max_length=100)),",
+        "detail": "accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "accounts.apps",
+        "description": "accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'accounts'",
+        "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserContactRegistration",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class UserContactRegistration(forms.ModelForm):\n  class Meta:\n    model = UserContactDetails\n    fields = '__all__'",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserContactDetails",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class UserContactDetails(models.Model):\n  first_name = models.CharField(max_length = 100)\n  last_name = models.CharField(max_length = 100)\n  user_email = models.EmailField()\n  contact_number = models.CharField(max_length = 10)\n  def __str__(self):\n    return self.first_name",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "sleepy",
+        "kind": 2,
+        "importPath": "accounts.task",
+        "description": "accounts.task",
+        "peekOfCode": "def sleepy(duration):\n  sleep(duration)\n  return None\n@shared_task\ndef send_mail_user_task(recepient,subject,message):\n  Mailer.send_user_mail(recepient,subject,message)\n  Mailer.send_admin_mail(recepient)\n  return None",
+        "detail": "accounts.task",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail_user_task",
+        "kind": 2,
+        "importPath": "accounts.task",
+        "description": "accounts.task",
+        "peekOfCode": "def send_mail_user_task(recepient,subject,message):\n  Mailer.send_user_mail(recepient,subject,message)\n  Mailer.send_admin_mail(recepient)\n  return None",
+        "detail": "accounts.task",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',views.home , name = 'home'),\n    path('aboutus/',views.aboutus , name = 'aboutus'),\n    path('create/',views.create_view, name = 'create'),\n]",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Mailer",
+        "kind": 6,
+        "importPath": "accounts.utils",
+        "description": "accounts.utils",
+        "peekOfCode": "class Mailer:\n  def send_user_mail(recepient,subject,message):\n    send_mail(subject,message, EMAIL_HOST_USER, [recepient], fail_silently = False)\n    return None\n  def send_admin_mail(recepient):\n    send_mail('User Visited The Site','User Registered Succesfully','recepient',['romiatpes@gmail.com'],\n        fail_silently=False,)\n    return None",
+        "detail": "accounts.utils",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def home(request):\n  return render(request,'base.html')\ndef aboutus(request):\n  return render(request,'aboutus.html')\n# User Contact Details \ndef create_view(request):\n  if request.method == 'POST':\n    form = UserContactRegistration(request.POST)\n    # Email Sending On User And Admin Mail Inbox\n    recepient = str(form['user_email'].value())",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "aboutus",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def aboutus(request):\n  return render(request,'aboutus.html')\n# User Contact Details \ndef create_view(request):\n  if request.method == 'POST':\n    form = UserContactRegistration(request.POST)\n    # Email Sending On User And Admin Mail Inbox\n    recepient = str(form['user_email'].value())\n    subject = 'User Inform Create'\n    message = 'You have Succesfully Created Your Account' ",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_view",
+        "kind": 2,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "def create_view(request):\n  if request.method == 'POST':\n    form = UserContactRegistration(request.POST)\n    # Email Sending On User And Admin Mail Inbox\n    recepient = str(form['user_email'].value())\n    subject = 'User Inform Create'\n    message = 'You have Succesfully Created Your Account' \n    send_mail_user_task.delay(recepient,subject,message)\n    # End Code Email Sending User And Admin Inbox\n    if form.is_valid():",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyConvertView",
+        "kind": 6,
+        "importPath": "apis.currency_api.api",
+        "description": "apis.currency_api.api",
+        "peekOfCode": "class CurrencyConvertView(APIView):\n    def post(self, request):\n        serializer = CurrencyConvertSerializers(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response({\"status\": \"success\", \"data\": serializer.data}, status=status.HTTP_200_OK)\n        else:\n            return Response({\"status\": \"error\", \"data\": serializer.errors}, status=status.HTTP_400_BAD_REQUEST)\nclass CurrencyConvertGetData(APIView):\n    def get(self, request, id=None):",
+        "detail": "apis.currency_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyConvertGetData",
+        "kind": 6,
+        "importPath": "apis.currency_api.api",
+        "description": "apis.currency_api.api",
+        "peekOfCode": "class CurrencyConvertGetData(APIView):\n    def get(self, request, id=None):\n        if id:\n            item = Currency_convert.objects.get(id=id)\n            if  str(item.current_choice) == \"Indian Rupee\":\n                with open('api/api11.txt') as f:\n                    lines = f.readlines()\n                    currencyDict = {}\n                    for line in lines:\n                        parsed = line.split(\"\\t\")",
+        "detail": "apis.currency_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "CustomLoginSchema",
+        "kind": 6,
+        "importPath": "apis.currency_api.api",
+        "description": "apis.currency_api.api",
+        "peekOfCode": "class CustomLoginSchema(AutoSchema):\n    def get_serializer_fields(self, path, method):\n        if method == 'POST':\n            extra_fields = [\n                coreapi.Field('username',required=True,location=\"formData\",type=\"string\"),\n                coreapi.Field('password',required=True,location=\"formData\",type=\"string\"),\n            ]\n        else:\n            extra_fields = []\n        serializer_fields = super().get_serializer_fields(path, method)",
+        "detail": "apis.currency_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyConvertSerializers",
+        "kind": 6,
+        "importPath": "apis.currency_api.serializers",
+        "description": "apis.currency_api.serializers",
+        "peekOfCode": "class CurrencyConvertSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = Currency_convert\n        fields = ('current_choice','amount','convert_choice')",
+        "detail": "apis.currency_api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentConvertView",
+        "kind": 6,
+        "importPath": "apis.document_api.api",
+        "description": "apis.document_api.api",
+        "peekOfCode": "class DocumentConvertView(APIView): \n    def post(self, request):\n        serializer = DocumentConvertSerializers(data=request.POST ,files=request.FILES)\n        if serializer.is_valid():\n            serializer.save()\n            return Response({\"status\": \"success\", \"data\": serializer}, status=status.HTTP_200_OK)\n        else:\n            return Response({\"status\": \"error\", \"data\": serializer.errors}, status=status.HTTP_400_BAD_REQUEST)\nclass DocumentConvertGetData(APIView):\n    def get(self, request, id=None):",
+        "detail": "apis.document_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentConvertGetData",
+        "kind": 6,
+        "importPath": "apis.document_api.api",
+        "description": "apis.document_api.api",
+        "peekOfCode": "class DocumentConvertGetData(APIView):\n    def get(self, request, id=None):\n        if id:\n            item = UserFileUpload.objects.get(id=id)\n            print(item)\n            if str(item.document_choices) == \"pdftodocs\":\n                pdf_file = str(item.file)\n                word_file = \"test.docx\"\n                parse(pdf_file, word_file, start=0, end=None)\n            elif str(item.document_choices) == \"docxtohtml\":",
+        "detail": "apis.document_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "CustomLoginSchema",
+        "kind": 6,
+        "importPath": "apis.document_api.api",
+        "description": "apis.document_api.api",
+        "peekOfCode": "class CustomLoginSchema(AutoSchema):\n    def get_serializer_fields(self, path, method):\n        if method == 'POST':\n            extra_fields = [\n                coreapi.Field('username',required=True,location=\"formData\",type=\"string\"),\n                coreapi.Field('password',required=True,location=\"formData\",type=\"string\"),\n            ]\n        else:\n            extra_fields = []\n        serializer_fields = super().get_serializer_fields(path, method)",
+        "detail": "apis.document_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "DocumentConvertSerializers",
+        "kind": 6,
+        "importPath": "apis.document_api.serializers",
+        "description": "apis.document_api.serializers",
+        "peekOfCode": "class DocumentConvertSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = UserFileUpload\n        fields = '__all__'",
+        "detail": "apis.document_api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apis.migrations.0001_initial",
+        "description": "apis.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Currency_convert',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('current_choice', models.CharField(choices=[('US Dollar', 'USD'), ('Euro', 'EURO'), ('British Pound', 'ASTRLN'), ('Australian Dollar', 'BRTSH'), ('Canadian Dollar', 'CNDN'), ('Singapore Dollar', 'SNGPR'), ('Swiss Franc', 'SWSFRNC'), ('Malaysian Ringgit', 'MLYSN'), ('Japanese Yen', 'JPNS'), ('Chinese Yuan Renminbi', 'CHNS'), ('Indian Rupee', 'INR')], max_length=50)),",
+        "detail": "apis.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apis.migrations.0002_alter_currency_convert_result",
+        "description": "apis.migrations.0002_alter_currency_convert_result",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('apis', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert',\n            name='result',\n            field=models.IntegerField(null=True),\n        ),",
+        "detail": "apis.migrations.0002_alter_currency_convert_result",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apis.migrations.0003_userfileupload",
+        "description": "apis.migrations.0003_userfileupload",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('apis', '0002_alter_currency_convert_result'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserFileUpload',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('file', models.FileField(upload_to='')),",
+        "detail": "apis.migrations.0003_userfileupload",
+        "documentation": {}
+    },
+    {
+        "label": "ApisConfig",
+        "kind": 6,
+        "importPath": "apis.apps",
+        "description": "apis.apps",
+        "peekOfCode": "class ApisConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'apis'",
+        "detail": "apis.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Currency_convert",
+        "kind": 6,
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "peekOfCode": "class Currency_convert(models.Model):\n    current_choice = models.CharField(max_length = 50 , choices= CONVERT_CHOICES)\n    amount = models.IntegerField()\n    convert_choice = models.CharField(max_length = 50 , choices= CONVERT_CHOICES)\n    result = models.IntegerField(null=True)\nCONVERT_CHOICESES = (\n    (\"pdftodocs\", \"PDF TO DOCX\"),\n    (\"docxtohtml\", \"DOCX TO HTML\"),\n    (\"htmltodoc\", \"HTML TO DOCX\"),\n    (\"pdftohtml\", \"PDF TO HTML\"),",
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserFileUpload",
+        "kind": 6,
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "peekOfCode": "class UserFileUpload(models.Model):\n   file = models.FileField() \n   document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICESES)",
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "CONVERT_CHOICES",
+        "kind": 5,
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "peekOfCode": "CONVERT_CHOICES = (\n    (\"US Dollar\", \"USD\"),\n    (\"Euro\", \"EURO\"),\n    (\"British Pound\",\"ASTRLN\"),\n    (\"Australian Dollar\",\"BRTSH\"),\n    (\"Canadian Dollar\", \"CNDN\"),\n    (\"Singapore Dollar\", \"SNGPR\"),\n    (\"Swiss Franc\", \"SWSFRNC\"),\n    (\"Malaysian Ringgit\",\"MLYSN\"),\n    (\"Japanese Yen\",\"JPNS\"),",
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "CONVERT_CHOICESES",
+        "kind": 5,
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "peekOfCode": "CONVERT_CHOICESES = (\n    (\"pdftodocs\", \"PDF TO DOCX\"),\n    (\"docxtohtml\", \"DOCX TO HTML\"),\n    (\"htmltodoc\", \"HTML TO DOCX\"),\n    (\"pdftohtml\", \"PDF TO HTML\"),\n    (\"htmltopdf\", \"HTML TO PDF\"),\n)\nclass UserFileUpload(models.Model):\n   file = models.FileField() \n   document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICESES)",
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "apis.urls",
+        "description": "apis.urls",
+        "peekOfCode": "urlpatterns = [\n    path('currencypostdata/', CurrencyConvertView.as_view()),\n    path('currencygetdata/<int:id>/',CurrencyConvertGetData.as_view()),\n    path('documentpostdata/', DocumentConvertView.as_view()),\n    path('documentgetdata/<int:id>/',DocumentConvertGetData.as_view()),\n]",
+        "detail": "apis.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0001_initial",
+        "description": "currency.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Currency_convert_model',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('amount', models.IntegerField(max_length=10)),",
+        "detail": "currency.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0002_alter_currency_convert_model_amount",
+        "description": "currency.migrations.0002_alter_currency_convert_model_amount",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='amount',\n            field=models.IntegerField(),\n        ),",
+        "detail": "currency.migrations.0002_alter_currency_convert_model_amount",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0003_currency_convert_model_currency_choice",
+        "description": "currency.migrations.0003_currency_convert_model_currency_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0002_alter_currency_convert_model_amount'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='currency_convert_model',\n            name='currency_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('pnd', 'POUND'), ('jpy', 'YEN')], default=1, max_length=10),\n            preserve_default=False,",
+        "detail": "currency.migrations.0003_currency_convert_model_currency_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0004_rename_currency_choice_currency_convert_model_convert_choice",
+        "description": "currency.migrations.0004_rename_currency_choice_currency_convert_model_convert_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0003_currency_convert_model_currency_choice'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='currency_convert_model',\n            old_name='currency_choice',\n            new_name='convert_choice',\n        ),",
+        "detail": "currency.migrations.0004_rename_currency_choice_currency_convert_model_convert_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0005_alter_currency_convert_model_convert_choice",
+        "description": "currency.migrations.0005_alter_currency_convert_model_convert_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0004_rename_currency_choice_currency_convert_model_convert_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('pnd', 'POUND'), ('jpy', 'YEN'), ('brtsh', 'BRTSH'), ('astl', 'ASTL'), ('cndn', 'CNDN'), ('swissf', 'SWISSF'), ('mlysn', 'MLYSN'), ('jpns', 'JPNS'), ('chns', 'CHNS')], max_length=10),\n        ),",
+        "detail": "currency.migrations.0005_alter_currency_convert_model_convert_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0006_alter_currency_convert_model_convert_choice",
+        "description": "currency.migrations.0006_alter_currency_convert_model_convert_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0005_alter_currency_convert_model_convert_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('brtsh', 'BRTSH'), ('astl', 'ASTL'), ('cndn', 'CNDN'), ('swissf', 'SWISSF'), ('mlysn', 'MLYSN'), ('jpns', 'JPNS'), ('chns', 'CHNS')], max_length=10),\n        ),",
+        "detail": "currency.migrations.0006_alter_currency_convert_model_convert_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0007_alter_currency_convert_model_convert_choice",
+        "description": "currency.migrations.0007_alter_currency_convert_model_convert_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0006_alter_currency_convert_model_convert_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('BritishPound', 'BritishPound'), ('astl', 'ASTL'), ('cndn', 'CNDN'), ('swissf', 'SWISSF'), ('mlysn', 'MLYSN'), ('jpns', 'JPNS'), ('chns', 'CHNS')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0007_alter_currency_convert_model_convert_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0008_alter_currency_convert_model_convert_choice",
+        "description": "currency.migrations.0008_alter_currency_convert_model_convert_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0007_alter_currency_convert_model_convert_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('Bripou', 'Bripou'), ('astl', 'ASTL'), ('cndn', 'CNDN'), ('swissf', 'SWISSF'), ('mlysn', 'MLYSN'), ('jpns', 'JPNS'), ('chns', 'CHNS')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0008_alter_currency_convert_model_convert_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0009_alter_currency_convert_model_convert_choice",
+        "description": "currency.migrations.0009_alter_currency_convert_model_convert_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0008_alter_currency_convert_model_convert_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('Astrln', 'ASTRLN'), ('astl', 'ASTL'), ('Cndn', 'CNDN'), ('swissf', 'SWISSF'), ('mlysn', 'MLYSN'), ('jpns', 'JPNS'), ('chns', 'CHNS')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0009_alter_currency_convert_model_convert_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0010_alter_currency_convert_model_convert_choice",
+        "description": "currency.migrations.0010_alter_currency_convert_model_convert_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0009_alter_currency_convert_model_convert_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('Astrln', 'ASTRLN'), ('Cndn', 'CNDN'), ('Sngpr', 'SNGPR'), ('SwsFrnc', 'SWSFRNC'), ('Mlysn', 'MLYSN'), ('Jpns', 'JPNS'), ('Chns', 'CHNS')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0010_alter_currency_convert_model_convert_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0011_alter_currency_convert_model_convert_choice",
+        "description": "currency.migrations.0011_alter_currency_convert_model_convert_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0010_alter_currency_convert_model_convert_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('Astrln', 'ASTRLN'), ('Cndn', 'CNDN'), ('SingaporeDollar', 'SNGPR'), ('SwissFranc', 'SWSFRNC'), ('MalaysianRinggit', 'MLYSN'), ('JapaneseYen', 'JPNS'), ('ChineseYuanRenminbi', 'CHNS')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0011_alter_currency_convert_model_convert_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0012_currency_convert_model_current_choice",
+        "description": "currency.migrations.0012_currency_convert_model_current_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0011_alter_currency_convert_model_convert_choice'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='currency_convert_model',\n            name='current_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('Astrln', 'ASTRLN'), ('Cndn', 'CNDN'), ('SingaporeDollar', 'SNGPR'), ('SwissFranc', 'SWSFRNC'), ('MalaysianRinggit', 'MLYSN'), ('JapaneseYen', 'JPNS'), ('ChineseYuanRenminbi', 'CHNS')], default=1, max_length=20),\n            preserve_default=False,",
+        "detail": "currency.migrations.0012_currency_convert_model_current_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0013_alter_currency_convert_model_convert_choice_and_more",
+        "description": "currency.migrations.0013_alter_currency_convert_model_convert_choice_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0012_currency_convert_model_current_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('Astrln', 'ASTRLN'), ('Cndn', 'CNDN'), ('SingaporeDollar', 'SNGPR'), ('SwissFranc', 'SWSFRNC'), ('MalaysianRinggit', 'MLYSN'), ('JapaneseYen', 'JPNS'), ('ChineseYuanRenminbi', 'CHNS'), ('IndianRupee', 'INR')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0013_alter_currency_convert_model_convert_choice_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0014_alter_currency_convert_model_current_choice",
+        "description": "currency.migrations.0014_alter_currency_convert_model_current_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0013_alter_currency_convert_model_convert_choice_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='current_choice',\n            field=models.CharField(choices=[('IndianRupee', 'INR')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0014_alter_currency_convert_model_current_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0015_alter_currency_convert_model_convert_choice",
+        "description": "currency.migrations.0015_alter_currency_convert_model_convert_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0014_alter_currency_convert_model_current_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('Astrln', 'ASTRLN'), ('Brtsh', 'BRTSH'), ('Cndn', 'CNDN'), ('SingaporeDollar', 'SNGPR'), ('SwissFranc', 'SWSFRNC'), ('MalaysianRinggit', 'MLYSN'), ('JapaneseYen', 'JPNS'), ('ChineseYuanRenminbi', 'CHNS'), ('IndianRupee', 'INR')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0015_alter_currency_convert_model_convert_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0016_alter_currency_convert_model_current_choice",
+        "description": "currency.migrations.0016_alter_currency_convert_model_current_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0015_alter_currency_convert_model_convert_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='current_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('Astrln', 'ASTRLN'), ('Brtsh', 'BRTSH'), ('Cndn', 'CNDN'), ('SingaporeDollar', 'SNGPR'), ('SwissFranc', 'SWSFRNC'), ('MalaysianRinggit', 'MLYSN'), ('JapaneseYen', 'JPNS'), ('ChineseYuanRenminbi', 'CHNS'), ('IndianRupee', 'INR')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0016_alter_currency_convert_model_current_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0017_alter_currency_convert_model_current_choice",
+        "description": "currency.migrations.0017_alter_currency_convert_model_current_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0016_alter_currency_convert_model_current_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='current_choice',\n            field=models.CharField(choices=[('IndianRupee', 'INR'), ('usd', 'USD'), ('euro', 'EURO'), ('British Pound', 'BRIPOU'), ('Australian Dollar', 'AUSDOL'), ('Canadian Dollar', 'CANDOL'), ('Swiss Franc', 'SWIFc'), ('Singapore Dollar', 'SINGDOL')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0017_alter_currency_convert_model_current_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0018_alter_currency_convert_model_current_choice",
+        "description": "currency.migrations.0018_alter_currency_convert_model_current_choice",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0017_alter_currency_convert_model_current_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='current_choice',\n            field=models.CharField(choices=[('usd', 'USD'), ('euro', 'EURO'), ('Astrln', 'ASTRLN'), ('Brtsh', 'BRTSH'), ('Cndn', 'CNDN'), ('SingaporeDollar', 'SNGPR'), ('SwissFranc', 'SWSFRNC'), ('MalaysianRinggit', 'MLYSN'), ('JapaneseYen', 'JPNS'), ('ChineseYuanRenminbi', 'CHNS'), ('IndianRupee', 'INR')], max_length=20),\n        ),",
+        "detail": "currency.migrations.0018_alter_currency_convert_model_current_choice",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0019_alter_currency_convert_model_convert_choice_and_more",
+        "description": "currency.migrations.0019_alter_currency_convert_model_convert_choice_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0018_alter_currency_convert_model_current_choice'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='convert_choice',\n            field=models.CharField(choices=[('US Dollar', 'USD'), ('Euro', 'EURO'), ('British Pound', 'ASTRLN'), ('Australian Dollar', 'BRTSH'), ('Canadian Dollar', 'CNDN'), ('Singapore Dollar', 'SNGPR'), ('Swiss Franc', 'SWSFRNC'), ('Malaysian Ringgit', 'MLYSN'), ('Japanese Yen', 'JPNS'), ('Chinese Yuan Renminbi', 'CHNS'), ('Indian Rupee', 'INR')], max_length=50),\n        ),",
+        "detail": "currency.migrations.0019_alter_currency_convert_model_convert_choice_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "CurrencyConfig",
+        "kind": 6,
+        "importPath": "currency.apps",
+        "description": "currency.apps",
+        "peekOfCode": "class CurrencyConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'currency'",
+        "detail": "currency.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Currency_form",
+        "kind": 6,
+        "importPath": "currency.forms",
+        "description": "currency.forms",
+        "peekOfCode": "class Currency_form(forms.ModelForm):\n  class Meta:\n    model = Currency_convert_model\n    fields = '__all__'",
+        "detail": "currency.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Currency_convert_model",
+        "kind": 6,
+        "importPath": "currency.models",
+        "description": "currency.models",
+        "peekOfCode": "class Currency_convert_model(models.Model):\n  current_choice = models.CharField(max_length = 50 , choices= CONVERT_CHOICES)\n  amount = models.IntegerField()\n  convert_choice = models.CharField(max_length = 50 , choices= CONVERT_CHOICES)",
+        "detail": "currency.models",
+        "documentation": {}
+    },
+    {
+        "label": "CONVERT_CHOICES",
+        "kind": 5,
+        "importPath": "currency.models",
+        "description": "currency.models",
+        "peekOfCode": "CONVERT_CHOICES = (\n    (\"US Dollar\", \"USD\"),\n    (\"Euro\", \"EURO\"),\n    (\"British Pound\",\"ASTRLN\"),\n    (\"Australian Dollar\",\"BRTSH\"),\n    (\"Canadian Dollar\", \"CNDN\"),\n    (\"Singapore Dollar\", \"SNGPR\"),\n    (\"Swiss Franc\", \"SWSFRNC\"),\n    (\"Malaysian Ringgit\",\"MLYSN\"),\n    (\"Japanese Yen\",\"JPNS\"),",
+        "detail": "currency.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "currency.urls",
+        "description": "currency.urls",
+        "peekOfCode": "urlpatterns = [\n    path('convert/',views.currency_function , name = 'currency'),\n]",
+        "detail": "currency.urls",
+        "documentation": {}
+    },
+    {
+        "label": "currency_function",
+        "kind": 2,
+        "importPath": "currency.views",
+        "description": "currency.views",
+        "peekOfCode": "def currency_function(request):\n  if request.method == 'POST':\n    form = Currency_form(request.POST)\n    if form.is_valid():\n      current_choice = form.cleaned_data['current_choice']\n      enter_amount = form.cleaned_data['amount']\n      enter_choice = form.cleaned_data['convert_choice']\n      if  str(current_choice) == \"US Dollar\":\n          with open('api/api1.txt') as f:\n              lines = f.readlines()",
+        "detail": "currency.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "docum.migrations.0001_initial",
+        "description": "docum.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserFileUpload',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('file', models.FileField(upload_to='')),",
+        "detail": "docum.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "docum.migrations.0002_userfileupload_document_choices",
+        "description": "docum.migrations.0002_userfileupload_document_choices",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'pdftodocs'), ('docstopdf', 'docstopdf')], default=1, max_length=20),\n            preserve_default=False,",
+        "detail": "docum.migrations.0002_userfileupload_document_choices",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "docum.migrations.0003_alter_userfileupload_document_choices",
+        "description": "docum.migrations.0003_alter_userfileupload_document_choices",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0002_userfileupload_document_choices'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'PDF TO DOCX')], max_length=20),\n        ),",
+        "detail": "docum.migrations.0003_alter_userfileupload_document_choices",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "docum.migrations.0004_alter_userfileupload_document_choices",
+        "description": "docum.migrations.0004_alter_userfileupload_document_choices",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0003_alter_userfileupload_document_choices'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'PDF TO DOCX'), ('docxtohtml', 'DOCX TO HTML')], max_length=20),\n        ),",
+        "detail": "docum.migrations.0004_alter_userfileupload_document_choices",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "docum.migrations.0005_alter_userfileupload_document_choices",
+        "description": "docum.migrations.0005_alter_userfileupload_document_choices",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0004_alter_userfileupload_document_choices'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'PDF TO DOCX'), ('docxtohtml', 'DOCX TO HTML'), ('htmltodoc', 'HTML TO DOCX'), ('pdftohtml', 'PDF TO HTML')], max_length=20),\n        ),",
+        "detail": "docum.migrations.0005_alter_userfileupload_document_choices",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "docum.migrations.0006_alter_userfileupload_document_choices",
+        "description": "docum.migrations.0006_alter_userfileupload_document_choices",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0005_alter_userfileupload_document_choices'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'PDF TO DOCX'), ('docxtohtml', 'DOCX TO HTML'), ('htmltodoc', 'HTML TO DOCX'), ('pdftohtml', 'PDF TO HTML'), ('htmltopdf', 'HTML TO PDF')], max_length=20),\n        ),",
+        "detail": "docum.migrations.0006_alter_userfileupload_document_choices",
+        "documentation": {}
+    },
+    {
+        "label": "DocumConfig",
+        "kind": 6,
+        "importPath": "docum.apps",
+        "description": "docum.apps",
+        "peekOfCode": "class DocumConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'docum'",
+        "detail": "docum.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFileFormUser",
+        "kind": 6,
+        "importPath": "docum.forms",
+        "description": "docum.forms",
+        "peekOfCode": "class UploadFileFormUser(forms.ModelForm):   \n   class Meta:\n      model = UserFileUpload\n      fields = '__all__'",
+        "detail": "docum.forms",
+        "documentation": {}
+    },
+    {
+        "label": "handle_uploaded_file",
+        "kind": 2,
+        "importPath": "docum.functions",
+        "description": "docum.functions",
+        "peekOfCode": "def handle_uploaded_file(f):\n    with open('name.txt', 'rb+') as destination:\n        for chunk in f.chunks():\n            destination.write(chunk)",
+        "detail": "docum.functions",
+        "documentation": {}
+    },
+    {
+        "label": "UserFileUpload",
+        "kind": 6,
+        "importPath": "docum.models",
+        "description": "docum.models",
+        "peekOfCode": "class UserFileUpload(models.Model):\n   file = models.FileField() \n   document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)",
+        "detail": "docum.models",
+        "documentation": {}
+    },
+    {
+        "label": "CONVERT_CHOICES",
+        "kind": 5,
+        "importPath": "docum.models",
+        "description": "docum.models",
+        "peekOfCode": "CONVERT_CHOICES = (\n    (\"pdftodocs\", \"PDF TO DOCX\"),\n    (\"docxtohtml\", \"DOCX TO HTML\"),\n    (\"htmltodoc\", \"HTML TO DOCX\"),\n    (\"pdftohtml\", \"PDF TO HTML\"),\n    (\"htmltopdf\", \"HTML TO PDF\"),\n)\nclass UserFileUpload(models.Model):\n   file = models.FileField() \n   document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)",
+        "detail": "docum.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "docum.urls",
+        "description": "docum.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',views.docx2pdf_converter, name = 'docversion'),\n]",
+        "detail": "docum.urls",
+        "documentation": {}
+    },
+    {
+        "label": "docx2pdf_converter",
+        "kind": 2,
+        "importPath": "docum.views",
+        "description": "docum.views",
+        "peekOfCode": "def docx2pdf_converter(request):\n    if request.method == 'POST':\n        form = UploadFileFormUser(request.POST, request.FILES)\n        if form.is_valid():\n            form_file_data = form.cleaned_data['file']\n            form_choice_data = form.cleaned_data['document_choices']\n            # Convert PDF file To Document File Code\n            if str(form_choice_data) == \"pdftodocs\":\n                pdf_file = str(form_file_data)\n                word_file = \"test.docx\"",
+        "detail": "docum.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'PyConversion.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n        ) from exc",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

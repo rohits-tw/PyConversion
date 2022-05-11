@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+{% block content %}
+<p>
+  <h1>Currency conversions</h1>
+  <h3>Learn more about how Stripe handles currency conversions for you.</h3>
+  Stripe supports processing charges in 135+ currencies allowing you to present prices in a customer’s native currency. 
+  Doing so can improve sales and help customers avoid conversion costs.
+  <br>
+  <br>
+  You specify the presentment currency when creating a PaymentIntent or a charge.
+  When a Stripe account receives payments in multiple currencies, Stripe accumulates
+  separate balances for each currency. When those balances are paid out to an 
+  associated bank account (or debit card), Stripe automatically sends funds to the
+  associated account for each currency, thereby avoiding exchange fees.
+  <br>
+  <br>
+  <h2>Calculating foreign exchange rates</h2>
+  Exchange rates displayed online are typically mid-market rates: the average between 
+  the buy and sell price of the currency. The actual exchange rate you pay ordinarily 
+  includes markups from financial institutions. When converting currencies on a payment 
+  or transfer, Stripe applies the daily mid-market rate provided by our service providers
+  and takes an additional fee. You can see more details about pricing for currency 
+  conversion on our pricing page.
+  <br>
+  <br>
+  <h1>Document Conversion Company</h1>
+  <br>
+  An experienced document conversion company based in the U.S, Managed Outsource Solutions
+  (MOS) can convert documents from and to any type of file format. With more than a decade’s
+  exposure in the industry, we offer solutions to improve the usability of all types of data
+  and documents. Outsourcing document conversion to MOS can save your time and money.
+  <br>
+  <br>
+  Our clientele includes state and federal government entities, the healthcare, legal,and 
+  corporate sectors, publishing, media, financial and educational institutions, insurance, 
+  and various other industries.
+  <br>
+  <br>
+  Equipped with the latest technology and experienced data conversion specialists and QA 
+  personnel, our document conversion company provides high quality, timely, and affordable
+  solutions to convert documents into usable, standardized formats. We help you realize how
+   a smart document conversion solution can:
+   <ul>
+     <li>Archive and store all your data for easy retrieval</li>
+     <li>Improve document sharing</li>
+     <li>Streamline document management</li>
+   </ul>
+</p>
+{% endblock content %}
