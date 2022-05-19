@@ -36,3 +36,18 @@ CONVERT_CHOICESES = (
 class UserFileUpload(models.Model):
    file = models.FileField() 
    document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICESES)
+   
+   
+
+VIDEO_CHOICES = (
+    
+    ("GIF","GIF"),
+    ("AUDIO","AUDIO"),
+    ("Image","Image"),
+    
+) 
+
+class VideoConvertModel(models.Model):
+    video   = models.FileField(upload_to="video/%y")
+    VIDEO_CHOICES = models.CharField(max_length=100 ,choices=VIDEO_CHOICES)
+    

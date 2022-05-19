@@ -1,5 +1,6 @@
+import json
 from django.shortcuts import render ,redirect
-from django.http import HttpResponseRedirect
+from django.http import HttpResponseRedirect,HttpResponse
 from .forms import UploadFileFormUser
 from .models import UserFileUpload
 from pdf2docx import parse
@@ -7,59 +8,33 @@ import aspose.words as aw
 from htmldocx import HtmlToDocx
 import pdfkit
 import os 
+from .task import document_converter_celery_task_function
+from django.shortcuts import render
+from .task import go_to_sleep
+from celery.result import AsyncResult
+from celery_progress.backend import Progress
+from django.views.decorators.cache import never_cache
 
-# Document Conversion Code Start
- 
+
+@never_cache
+def get_progress(request, task_id):
+    progress = Progress(AsyncResult(str(task_id)))
+    return HttpResponse(json.dumps(progress.get_info()), content_type='application/json')
+
 def docx2pdf_converter(request):
     if request.method == 'POST':
         form = UploadFileFormUser(request.POST, request.FILES)
         if form.is_valid():
+            form_current_choices = form.cleaned_data['current_choices']
             form_file_data = form.cleaned_data['file']
-            form_choice_data = form.cleaned_data['document_choices']
-            
-            # Convert PDF file To Document File Code
-            
-            if str(form_choice_data) == "pdftodocs":
-                pdf_file = str(form_file_data)
-                word_file = "test.docx"
-                parse(pdf_file, word_file, start=0, end=None)
-                    
-            # End Code PDF file To Document File 
-            
-            # Convert Document To HTML File Code 
-            
-            elif str(form_choice_data) == "docxtohtml":
-                docx_file = str(form_file_data)
-                doc = aw.Document(docx_file)
-                saveOptions = aw.saving.HtmlSaveOptions()
-                saveOptions.export_roundtrip_information = True
-                doc.save("Document.html", saveOptions)
-                
-            # End Code Convert Document to HTML file 
-            
-            # Convert HTML to Doxc File Code
-            
-            elif str(form_choice_data) == "htmltodoc":
-                html_file = str(form_file_data)
-                new_parser = HtmlToDocx()
-                new_parser.parse_html_file(html_file, "index.docx")
-                
-            # End Code Convert HTML to Document file 
-            
-            # Convert PDF to HTML  Code
-            
-            elif str(form_choice_data) == "pdftohtml":
-                pdf_file = str(form_file_data)
-                doc = aw.Document(pdf_file)
-                doc.save("Output.html")
-                
-            # End Code Convert PDF to HTML file
-            else:
-                html_file = str(form_file_data)
-                pdfkit.from_file(html_file, 'out.pdf')
-
+            form_convert_choices= form.cleaned_data['convert_choices']
+            form_file_data = str(form_file_data)
+            form_convert_choices = str(form_convert_choices)
+            form_current_choices = str(form_current_choices)
+            document_converter_celery_task_function.delay(form_current_choices,form_file_data,form_convert_choices)
     else:
         form = UploadFileFormUser()
-    return render(request, 'docversion.html', {'form': form})
+    tasks1 = go_to_sleep.delay(20)
+    return render(request, 'docversion.html', {'form': form ,'task_id': tasks1.task_id})
 
 # End Document Conversion Code
