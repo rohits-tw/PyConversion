@@ -24,15 +24,28 @@ class Currency_convert(models.Model):
     
 
 
-CONVERT_CHOICESES = (
-    ("pdftodocs", "PDF TO DOCX"),
-    ("docxtohtml", "DOCX TO HTML"),
-    ("htmltodoc", "HTML TO DOCX"),
-    ("pdftohtml", "PDF TO HTML"),
-    ("htmltopdf", "HTML TO PDF"),
+CONVERT_CHOICES = (
+    ("pdf", "PDF"),
+    ("docx", "DOCX"),
+    ("html", "HTML"),
 )
 
-
 class UserFileUpload(models.Model):
+   current_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)
    file = models.FileField() 
-   document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICESES)
+   convert_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)
+   
+   
+
+VIDEO_CHOICES = (
+    
+    ("GIF","GIF"),
+    ("AUDIO","AUDIO"),
+    ("Image","Image"),
+    
+) 
+
+class VideoConvertModel(models.Model):
+    video   = models.FileField(upload_to="video/%y")
+    VIDEO_CHOICES = models.CharField(max_length=100 ,choices=VIDEO_CHOICES)
+    

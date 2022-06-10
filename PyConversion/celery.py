@@ -1,15 +1,20 @@
 import os
-
+from django.conf import settings
 from celery import Celery
 
 # Set the default Django settings module for the 'celery' program.
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'PyConversion.settings')
 
 app = Celery('PyConversion')
-app.config_from_object('django.conf:settings', namespace='CELERY')
+app.config_from_object('django.conf:settings', namespace='CELERY_Task')
 
 # Load task modules from all registered Django apps.
-app.autodiscover_tasks()
+app.autodiscover_tasks(settings.INSTALLED_APPS)
+BASE_REDIS_URL = os.environ.get('REDIS_URL', 'redis://localhost:6379')
+
+app.conf.broker_url = BASE_REDIS_URL
+
+app.conf.beat_scheduler = 'django_celery_beat.schedulers.DatabaseScheduler'
 
 
 @app.task(bind=True)

@@ -1,7 +1,9 @@
 from django import forms
-from .models import UserFileUpload
+from docum.models import UserFileUpload
 
 class UploadFileFormUser(forms.ModelForm):   
    class Meta:
       model = UserFileUpload
-      fields = '__all__'
+      fields = ['id','current_choices','file','convert_choices']
+      
+      

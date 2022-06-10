@@ -4,5 +4,5 @@ from apis.models import Currency_convert
 class CurrencyConvertSerializers(serializers.ModelSerializer):
     class Meta:
         model = Currency_convert
-        fields = ('current_choice','amount','convert_choice')
+        fields = ('id','current_choice','amount','convert_choice')
                
