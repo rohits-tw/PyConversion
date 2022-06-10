@@ -9,6 +9,62 @@
         "documentation": {}
     },
     {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
         "label": "Celery",
         "importPath": "celery",
         "description": "celery",
@@ -30,6 +86,22 @@
         "isExtraImport": true,
         "importPath": "django.contrib",
         "description": "django.contrib",
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
         "detail": "django.contrib",
         "documentation": {}
     },
@@ -146,6 +218,14 @@
         "documentation": {}
     },
     {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
         "label": "openapi",
         "importPath": "drf_yasg",
         "description": "drf_yasg",
@@ -171,6 +251,14 @@
     },
     {
         "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
         "importPath": "rest_framework",
         "description": "rest_framework",
         "isExtraImport": true,
@@ -210,6 +298,46 @@
         "documentation": {}
     },
     {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "PyConversion",
+        "description": "PyConversion",
+        "isExtraImport": true,
+        "detail": "PyConversion",
+        "documentation": {}
+    },
+    {
         "label": "get_wsgi_application",
         "importPath": "django.core.wsgi",
         "description": "django.core.wsgi",
@@ -234,14 +362,6 @@
         "documentation": {}
     },
     {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
         "label": "migrations",
         "importPath": "django.db",
         "description": "django.db",
@@ -314,22 +434,6 @@
         "documentation": {}
     },
     {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
-        "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -387,14 +491,6 @@
     },
     {
         "label": "migrations",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
-        "label": "models",
         "importPath": "django.db",
         "description": "django.db",
         "isExtraImport": true,
@@ -562,6 +658,46 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -603,6 +739,54 @@
     },
     {
         "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
         "importPath": "django.db",
         "description": "django.db",
         "isExtraImport": true,
@@ -703,6 +887,22 @@
         "description": "django.apps",
         "isExtraImport": true,
         "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
         "documentation": {}
     },
     {
@@ -735,6 +935,46 @@
         "description": "time",
         "isExtraImport": true,
         "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "sleep",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Mailer",
+        "importPath": "accounts.utils",
+        "description": "accounts.utils",
+        "isExtraImport": true,
+        "detail": "accounts.utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
         "documentation": {}
     },
     {
@@ -842,6 +1082,54 @@
         "documentation": {}
     },
     {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
         "label": "HttpResponse",
         "importPath": "django.http",
         "description": "django.http",
@@ -882,6 +1170,22 @@
         "documentation": {}
     },
     {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
         "label": "Response",
         "importPath": "rest_framework.response",
         "description": "rest_framework.response",
@@ -927,6 +1231,30 @@
         "description": "apis.models",
         "isExtraImport": true,
         "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "VideoConvertModel",
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "isExtraImport": true,
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "VideoConvertModel",
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "isExtraImport": true,
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "AutoSchema",
+        "importPath": "rest_framework.schemas",
+        "description": "rest_framework.schemas",
+        "isExtraImport": true,
+        "detail": "rest_framework.schemas",
         "documentation": {}
     },
     {
@@ -955,11 +1283,91 @@
         "documentation": {}
     },
     {
+        "label": "ParseError",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ParseError",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ParseError",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "MultiPartParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "FormParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "MultiPartParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "FormParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "MultiPartParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "FormParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
         "label": "ViewSet",
         "importPath": "rest_framework.viewsets",
         "description": "rest_framework.viewsets",
         "isExtraImport": true,
         "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "pdf2docx",
+        "description": "pdf2docx",
+        "isExtraImport": true,
+        "detail": "pdf2docx",
         "documentation": {}
     },
     {
@@ -1004,6 +1412,14 @@
         "documentation": {}
     },
     {
+        "label": "HtmlToDocx",
+        "importPath": "htmldocx",
+        "description": "htmldocx",
+        "isExtraImport": true,
+        "detail": "htmldocx",
+        "documentation": {}
+    },
+    {
         "label": "pdfkit",
         "kind": 6,
         "isExtraImport": true,
@@ -1013,27 +1429,53 @@
         "documentation": {}
     },
     {
-        "label": "ParseError",
-        "importPath": "rest_framework.exceptions",
-        "description": "rest_framework.exceptions",
+        "label": "moviepy.editor",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "rest_framework.exceptions",
+        "importPath": "moviepy.editor",
+        "description": "moviepy.editor",
+        "detail": "moviepy.editor",
         "documentation": {}
     },
     {
-        "label": "MultiPartParser",
-        "importPath": "rest_framework.parsers",
-        "description": "rest_framework.parsers",
+        "label": "VideoFileClip",
+        "importPath": "moviepy.editor",
+        "description": "moviepy.editor",
         "isExtraImport": true,
-        "detail": "rest_framework.parsers",
+        "detail": "moviepy.editor",
         "documentation": {}
     },
     {
-        "label": "FormParser",
-        "importPath": "rest_framework.parsers",
-        "description": "rest_framework.parsers",
+        "label": "*",
+        "importPath": "moviepy.editor",
+        "description": "moviepy.editor",
         "isExtraImport": true,
-        "detail": "rest_framework.parsers",
+        "detail": "moviepy.editor",
+        "documentation": {}
+    },
+    {
+        "label": "VideoFileClip",
+        "importPath": "moviepy.editor",
+        "description": "moviepy.editor",
+        "isExtraImport": true,
+        "detail": "moviepy.editor",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "moviepy.editor",
+        "description": "moviepy.editor",
+        "isExtraImport": true,
+        "detail": "moviepy.editor",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
         "documentation": {}
     },
     {
@@ -1069,6 +1511,22 @@
         "documentation": {}
     },
     {
+        "label": "VideoConvertView",
+        "importPath": "apis.videocon_api.api",
+        "description": "apis.videocon_api.api",
+        "isExtraImport": true,
+        "detail": "apis.videocon_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "VideoConvertGetData",
+        "importPath": "apis.videocon_api.api",
+        "description": "apis.videocon_api.api",
+        "isExtraImport": true,
+        "detail": "apis.videocon_api.api",
+        "documentation": {}
+    },
+    {
         "label": "views",
         "importPath": "currency",
         "description": "currency",
@@ -1077,11 +1535,150 @@
         "documentation": {}
     },
     {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UserFileUpload",
+        "importPath": "docum.models",
+        "description": "docum.models",
+        "isExtraImport": true,
+        "detail": "docum.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserFileUpload",
+        "importPath": "docum.models",
+        "description": "docum.models",
+        "isExtraImport": true,
+        "detail": "docum.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserFileUpload",
+        "importPath": "docum.models",
+        "description": "docum.models",
+        "isExtraImport": true,
+        "detail": "docum.models",
+        "documentation": {}
+    },
+    {
+        "label": "absolute_import",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "document_convert_celery_task",
+        "importPath": "docum.utils",
+        "description": "docum.utils",
+        "isExtraImport": true,
+        "detail": "docum.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ProgressRecorder",
+        "importPath": "celery_progress.backend",
+        "description": "celery_progress.backend",
+        "isExtraImport": true,
+        "detail": "celery_progress.backend",
+        "documentation": {}
+    },
+    {
+        "label": "Progress",
+        "importPath": "celery_progress.backend",
+        "description": "celery_progress.backend",
+        "isExtraImport": true,
+        "detail": "celery_progress.backend",
+        "documentation": {}
+    },
+    {
+        "label": "task_postrun",
+        "importPath": "celery.signals",
+        "description": "celery.signals",
+        "isExtraImport": true,
+        "detail": "celery.signals",
+        "documentation": {}
+    },
+    {
         "label": "views",
         "importPath": "docum",
         "description": "docum",
         "isExtraImport": true,
         "detail": "docum",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFileFormUser",
+        "importPath": "docum.forms",
+        "description": "docum.forms",
+        "isExtraImport": true,
+        "detail": "docum.forms",
+        "documentation": {}
+    },
+    {
+        "label": "document_converter_celery_task_function",
+        "importPath": "docum.task",
+        "description": "docum.task",
+        "isExtraImport": true,
+        "detail": "docum.task",
+        "documentation": {}
+    },
+    {
+        "label": "go_to_sleep",
+        "importPath": "docum.task",
+        "description": "docum.task",
+        "isExtraImport": true,
+        "detail": "docum.task",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncResult",
+        "importPath": "celery.result",
+        "description": "celery.result",
+        "isExtraImport": true,
+        "detail": "celery.result",
+        "documentation": {}
+    },
+    {
+        "label": "never_cache",
+        "importPath": "django.views.decorators.cache",
+        "description": "django.views.decorators.cache",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.cache",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "videocon",
+        "description": "videocon",
+        "isExtraImport": true,
+        "detail": "videocon",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
         "documentation": {}
     },
     {
@@ -1107,7 +1704,34 @@
         "kind": 5,
         "importPath": "PyConversion.celery",
         "description": "PyConversion.celery",
-        "peekOfCode": "app = Celery('PyConversion')\napp.config_from_object('django.conf:settings', namespace='CELERY')\n# Load task modules from all registered Django apps.\napp.autodiscover_tasks()\n@app.task(bind=True)\ndef debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "peekOfCode": "app = Celery('PyConversion')\napp.config_from_object('django.conf:settings', namespace='CELERY_Task')\n# Load task modules from all registered Django apps.\napp.autodiscover_tasks(settings.INSTALLED_APPS)\nBASE_REDIS_URL = os.environ.get('REDIS_URL', 'redis://localhost:6379')\napp.conf.broker_url = BASE_REDIS_URL\napp.conf.beat_scheduler = 'django_celery_beat.schedulers.DatabaseScheduler'\n@app.task(bind=True)\ndef debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "PyConversion.celery",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_REDIS_URL",
+        "kind": 5,
+        "importPath": "PyConversion.celery",
+        "description": "PyConversion.celery",
+        "peekOfCode": "BASE_REDIS_URL = os.environ.get('REDIS_URL', 'redis://localhost:6379')\napp.conf.broker_url = BASE_REDIS_URL\napp.conf.beat_scheduler = 'django_celery_beat.schedulers.DatabaseScheduler'\n@app.task(bind=True)\ndef debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "PyConversion.celery",
+        "documentation": {}
+    },
+    {
+        "label": "app.conf.broker_url",
+        "kind": 5,
+        "importPath": "PyConversion.celery",
+        "description": "PyConversion.celery",
+        "peekOfCode": "app.conf.broker_url = BASE_REDIS_URL\napp.conf.beat_scheduler = 'django_celery_beat.schedulers.DatabaseScheduler'\n@app.task(bind=True)\ndef debug_task(self):\n    print(f'Request: {self.request!r}')",
+        "detail": "PyConversion.celery",
+        "documentation": {}
+    },
+    {
+        "label": "app.conf.beat_scheduler",
+        "kind": 5,
+        "importPath": "PyConversion.celery",
+        "description": "PyConversion.celery",
+        "peekOfCode": "app.conf.beat_scheduler = 'django_celery_beat.schedulers.DatabaseScheduler'\n@app.task(bind=True)\ndef debug_task(self):\n    print(f'Request: {self.request!r}')",
         "detail": "PyConversion.celery",
         "documentation": {}
     },
@@ -1152,7 +1776,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'drf_yasg',\n    'apis',",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'drf_yasg',\n    'crispy_forms',",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1170,7 +1794,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "REST_FRAMEWORK = {'DEFAULT_SCHEMA_CLASS':'rest_framework.schemas.coreapi.AutoSchema',\n                  }\n# REST_FRAMEWORK = {\n#     'DEFAULT_AUTHENTICATION_CLASSES': [\n#         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'\n#     ],\n# }\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',",
+        "peekOfCode": "REST_FRAMEWORK = {'DEFAULT_SCHEMA_CLASS':'rest_framework.schemas.coreapi.AutoSchema',\n                  }\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1188,16 +1812,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "ROOT_URLCONF = 'PyConversion.urls'\nTEMP_DIR = os.path.join(BASE_DIR, 'templates')\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [TEMP_DIR],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',",
-        "detail": "PyConversion.settings",
-        "documentation": {}
-    },
-    {
-        "label": "TEMP_DIR",
-        "kind": 5,
-        "importPath": "PyConversion.settings",
-        "description": "PyConversion.settings",
-        "peekOfCode": "TEMP_DIR = os.path.join(BASE_DIR, 'templates')\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [TEMP_DIR],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "peekOfCode": "ROOT_URLCONF = 'PyConversion.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1206,7 +1821,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [TEMP_DIR],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': ['templates'],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1215,7 +1830,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "WSGI_APPLICATION = 'PyConversion.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "peekOfCode": "WSGI_APPLICATION = 'PyConversion.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/2.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'conversion',\n        'USER': 'admin',\n        'PASSWORD':\"1234\",\n        'HOST': 'localhost'",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1224,7 +1839,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'conversion',\n        'USER': 'admin',\n        'PASSWORD':\"1234\",\n        'HOST': 'localhost'\n    }\n}\n# DATABASES = {",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1242,7 +1857,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1251,7 +1866,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1260,7 +1875,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1269,7 +1884,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1278,7 +1893,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/2.2/howto/static-files/\n# STATIC_URL = '/static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, \"static\")\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (",
+        "peekOfCode": "USE_TZ = True\nMEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1287,7 +1902,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT  = os.path.join(BASE_DIR, 'media')\nSTATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1296,7 +1911,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "STATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'",
+        "peekOfCode": "STATIC_ROOT = ''\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1305,7 +1920,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nEMAIL_PORT = 587",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1314,7 +1929,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "STATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'",
+        "peekOfCode": "STATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nEMAIL_PORT = 587\nCELERY_BROKER_URL = 'redis://localhost:6379'",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1323,16 +1938,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
-        "detail": "PyConversion.settings",
-        "documentation": {}
-    },
-    {
-        "label": "EMAIL_HOST",
-        "kind": 5,
-        "importPath": "PyConversion.settings",
-        "description": "PyConversion.settings",
-        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nEMAIL_PORT = 587\nCELERY_BROKER_URL = 'redis://localhost:6379'\nBROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis'\nCELERY_ACCEPT_CONTENT = ['json']",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1341,16 +1947,16 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nEMAIL_PORT = 587\nCELERY_BROKER_URL = 'redis://localhost:6379'\nBROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis'\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
     {
-        "label": "EMAIL_PORT",
+        "label": "EMAIL_HOST",
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "EMAIL_PORT = 587\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'\nSPECTACULAR_SETTINGS = {",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nEMAIL_PORT = 587\nCELERY_BROKER_URL = 'redis://localhost:6379'\nBROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis'\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1359,7 +1965,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "EMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'\nSPECTACULAR_SETTINGS = {\n    'COMPONENT_SPLIT_REQUEST': True",
+        "peekOfCode": "EMAIL_HOST_USER = 'romiatpes@gmail.com'\nEMAIL_HOST_PASSWORD = 'Rohit@12345'\nEMAIL_PORT = 587\nCELERY_BROKER_URL = 'redis://localhost:6379'\nBROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis'\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1368,7 +1974,25 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "EMAIL_HOST_PASSWORD = 'Rohit@12345'\nBROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'\nSPECTACULAR_SETTINGS = {\n    'COMPONENT_SPLIT_REQUEST': True\n}",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = 'Rohit@12345'\nEMAIL_PORT = 587\nCELERY_BROKER_URL = 'redis://localhost:6379'\nBROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis'\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "EMAIL_PORT = 587\nCELERY_BROKER_URL = 'redis://localhost:6379'\nBROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis'\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_URL",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "CELERY_BROKER_URL = 'redis://localhost:6379'\nBROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis'\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1377,7 +2001,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "BROKER_URL = 'redis://127.0.0.1:6379'\nCELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'\nSPECTACULAR_SETTINGS = {\n    'COMPONENT_SPLIT_REQUEST': True\n}",
+        "peekOfCode": "BROKER_URL = 'redis://localhost:6379'\nCELERY_RESULT_BACKEND = 'redis'\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1386,16 +2010,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "CELERY_RESULT_BACKEND = 'redis://127.0.0.1:6379'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'\nSPECTACULAR_SETTINGS = {\n    'COMPONENT_SPLIT_REQUEST': True\n}",
-        "detail": "PyConversion.settings",
-        "documentation": {}
-    },
-    {
-        "label": "CELERY_ANNOTATIONS",
-        "kind": 5,
-        "importPath": "PyConversion.settings",
-        "description": "PyConversion.settings",
-        "peekOfCode": "CELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'\nSPECTACULAR_SETTINGS = {\n    'COMPONENT_SPLIT_REQUEST': True\n}",
+        "peekOfCode": "CELERY_RESULT_BACKEND = 'redis'\nCELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1404,16 +2019,7 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "CELERY_ACCEPT_CONTENT = ['application/json']\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'\nSPECTACULAR_SETTINGS = {\n    'COMPONENT_SPLIT_REQUEST': True\n}",
-        "detail": "PyConversion.settings",
-        "documentation": {}
-    },
-    {
-        "label": "CELERY_RESULT_SERIALIZER",
-        "kind": 5,
-        "importPath": "PyConversion.settings",
-        "description": "PyConversion.settings",
-        "peekOfCode": "CELERY_RESULT_SERIALIZER = 'json'\nCELERY_TASK_SERIALIZER = 'json'\nSPECTACULAR_SETTINGS = {\n    'COMPONENT_SPLIT_REQUEST': True\n}",
+        "peekOfCode": "CELERY_ACCEPT_CONTENT = ['json']\nCELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
@@ -1422,26 +2028,35 @@
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "CELERY_TASK_SERIALIZER = 'json'\nSPECTACULAR_SETTINGS = {\n    'COMPONENT_SPLIT_REQUEST': True\n}",
+        "peekOfCode": "CELERY_TASK_SERIALIZER = 'json'\nCELERY_RESULT_SERIALIZER = 'json'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
     {
-        "label": "SPECTACULAR_SETTINGS",
+        "label": "CELERY_RESULT_SERIALIZER",
         "kind": 5,
         "importPath": "PyConversion.settings",
         "description": "PyConversion.settings",
-        "peekOfCode": "SPECTACULAR_SETTINGS = {\n    'COMPONENT_SPLIT_REQUEST': True\n}",
+        "peekOfCode": "CELERY_RESULT_SERIALIZER = 'json'\nCELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
         "detail": "PyConversion.settings",
         "documentation": {}
     },
     {
-        "label": "schema_view",
+        "label": "CELERY_ANNOTATIONS",
         "kind": 5,
-        "importPath": "PyConversion.urls",
-        "description": "PyConversion.urls",
-        "peekOfCode": "schema_view = get_schema_view(\n    openapi.Info(\n        title=\"FOREX BACKEND API\",\n        default_version=\"v1\",\n        description=\"Test description\",\n        terms_of_service=\"https://www.google.com/policies/terms/\",\n        contact=openapi.Contact(email=\"contact@snippets.local\"),\n        license=openapi.License(name=\"BSD License\"),\n    ),\n    public=True,",
-        "detail": "PyConversion.urls",
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "CELERY_ANNOTATIONS = {'tasks.add': {'rate_limit': '10/s'}}\nCELERY_ACCEPT_CONTENT = ['application/json']",
+        "detail": "PyConversion.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_ACCEPT_CONTENT",
+        "kind": 5,
+        "importPath": "PyConversion.settings",
+        "description": "PyConversion.settings",
+        "peekOfCode": "CELERY_ACCEPT_CONTENT = ['application/json']",
+        "detail": "PyConversion.settings",
         "documentation": {}
     },
     {
@@ -1449,7 +2064,16 @@
         "kind": 5,
         "importPath": "PyConversion.urls",
         "description": "PyConversion.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('accounts.urls')),\n    path('currency/',include('currency.urls')),\n    path('documents/',include('docum.urls')),\n    path('api/',include('apis.urls')),\n]\nurlpatterns += [\n    path(\n        \"swagger(?P<format>\\.json|\\.yaml)\",",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/',include('apis.urls')),\n    path('',include('accounts.urls')),\n    path('currency/',include('currency.urls')),\n    path('videocon/',include('videocon.urls')),\n    path('document/',include('docum.urls')),\n    path('celery-progress/', include('celery_progress.urls')),\n]\nfrom django.conf.urls.static import static",
+        "detail": "PyConversion.urls",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "PyConversion.urls",
+        "description": "PyConversion.urls",
+        "peekOfCode": "schema_view = get_schema_view(\n    openapi.Info(\n        title=\"PyConversion BACKEND API\",\n        default_version=\"v1\",\n        description=\"Test description\",\n        terms_of_service=\"https://www.google.com/policies/terms/\",\n        contact=openapi.Contact(email=\"contact@snippets.local\"),\n        license=openapi.License(name=\"BSD License\"),\n    ),\n    public=True,",
         "detail": "PyConversion.urls",
         "documentation": {}
     },
@@ -1469,6 +2093,15 @@
         "description": "accounts.migrations.0001_initial",
         "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserContactDetails',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('first_name', models.CharField(max_length=100)),",
         "detail": "accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0002_auto_20220520_0943",
+        "description": "accounts.migrations.0002_auto_20220520_0943",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('accounts', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='usercontactdetails',\n            name='id',\n            field=models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID'),\n        ),",
+        "detail": "accounts.migrations.0002_auto_20220520_0943",
         "documentation": {}
     },
     {
@@ -1566,7 +2199,7 @@
         "kind": 6,
         "importPath": "apis.currency_api.api",
         "description": "apis.currency_api.api",
-        "peekOfCode": "class CurrencyConvertView(APIView):\n    def post(self, request):\n        serializer = CurrencyConvertSerializers(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response({\"status\": \"success\", \"data\": serializer.data}, status=status.HTTP_200_OK)\n        else:\n            return Response({\"status\": \"error\", \"data\": serializer.errors}, status=status.HTTP_400_BAD_REQUEST)\nclass CurrencyConvertGetData(APIView):\n    def get(self, request, id=None):",
+        "peekOfCode": "class CurrencyConvertView(generics.GenericAPIView):\n    parser_classes = (FormParser, MultiPartParser)\n    serializer_class = CurrencyConvertSerializers\n    def post(self, request):\n        serializer = CurrencyConvertSerializers(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response({\"status\": \"success\",\"data\": serializer.data}, status=status.HTTP_200_OK)\n        else:\n            return Response({\"status\": \"error\", \"data\": serializer.errors}, status=status.HTTP_400_BAD_REQUEST)",
         "detail": "apis.currency_api.api",
         "documentation": {}
     },
@@ -1575,16 +2208,7 @@
         "kind": 6,
         "importPath": "apis.currency_api.api",
         "description": "apis.currency_api.api",
-        "peekOfCode": "class CurrencyConvertGetData(APIView):\n    def get(self, request, id=None):\n        if id:\n            item = Currency_convert.objects.get(id=id)\n            if  str(item.current_choice) == \"Indian Rupee\":\n                with open('api/api11.txt') as f:\n                    lines = f.readlines()\n                    currencyDict = {}\n                    for line in lines:\n                        parsed = line.split(\"\\t\")",
-        "detail": "apis.currency_api.api",
-        "documentation": {}
-    },
-    {
-        "label": "CustomLoginSchema",
-        "kind": 6,
-        "importPath": "apis.currency_api.api",
-        "description": "apis.currency_api.api",
-        "peekOfCode": "class CustomLoginSchema(AutoSchema):\n    def get_serializer_fields(self, path, method):\n        if method == 'POST':\n            extra_fields = [\n                coreapi.Field('username',required=True,location=\"formData\",type=\"string\"),\n                coreapi.Field('password',required=True,location=\"formData\",type=\"string\"),\n            ]\n        else:\n            extra_fields = []\n        serializer_fields = super().get_serializer_fields(path, method)",
+        "peekOfCode": "class CurrencyConvertGetData(APIView):\n    def get(self, request, id=None):\n        if id:\n            item = Currency_convert.objects.get(id=id)\n            if  str(item.current_choice) == \"US Dollar\":\n                with open('api/api1.txt') as f:\n                    lines = f.readlines()\n                    currencyDict = {}\n                    for line in lines:\n                        parsed = line.split(\"\\t\")",
         "detail": "apis.currency_api.api",
         "documentation": {}
     },
@@ -1593,7 +2217,7 @@
         "kind": 6,
         "importPath": "apis.currency_api.serializers",
         "description": "apis.currency_api.serializers",
-        "peekOfCode": "class CurrencyConvertSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = Currency_convert\n        fields = ('current_choice','amount','convert_choice')",
+        "peekOfCode": "class CurrencyConvertSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = Currency_convert\n        fields = ('id','current_choice','amount','convert_choice')",
         "detail": "apis.currency_api.serializers",
         "documentation": {}
     },
@@ -1611,7 +2235,7 @@
         "kind": 6,
         "importPath": "apis.document_api.api",
         "description": "apis.document_api.api",
-        "peekOfCode": "class DocumentConvertGetData(APIView):\n    def get(self, request, id=None):\n        if id:\n            item = UserFileUpload.objects.get(id=id)\n            if str(item.document_choices) == \"pdftodocs\":\n                pdf_file = str(item.file.path)\n                word_file = \"test.docx\"\n                parse(pdf_file, word_file, start=0, end=None)\n            elif str(item.document_choices) == \"docxtohtml\":\n                docx_file = str(item.file.path)",
+        "peekOfCode": "class DocumentConvertGetData(APIView):\n    def get(self, request, id=None):\n        if id:\n            item = UserFileUpload.objects.get(id=id)\n            if str(item.current_choices) == \"pdf\":\n                if str(item.convert_choices) == \"docx\":\n                    pdf_file = str(item.form_file_data)\n                    word_file = \"test.docx\"\n                    parse(pdf_file, word_file, start=0, end=None)\n            # End Code PDF file To Document File ",
         "detail": "apis.document_api.api",
         "documentation": {}
     },
@@ -1620,7 +2244,7 @@
         "kind": 6,
         "importPath": "apis.document_api.serializers",
         "description": "apis.document_api.serializers",
-        "peekOfCode": "class DocumentConvertSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = UserFileUpload\n        fields = ('file','document_choices')",
+        "peekOfCode": "class DocumentConvertSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = UserFileUpload\n        fields = ('id','current_choices','file','convert_choices')",
         "detail": "apis.document_api.serializers",
         "documentation": {}
     },
@@ -1631,6 +2255,51 @@
         "description": "apis.migrations.0001_initial",
         "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Currency_convert',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('current_choice', models.CharField(choices=[('US Dollar', 'USD'), ('Euro', 'EURO'), ('British Pound', 'ASTRLN'), ('Australian Dollar', 'BRTSH'), ('Canadian Dollar', 'CNDN'), ('Singapore Dollar', 'SNGPR'), ('Swiss Franc', 'SWSFRNC'), ('Malaysian Ringgit', 'MLYSN'), ('Japanese Yen', 'JPNS'), ('Chinese Yuan Renminbi', 'CHNS'), ('Indian Rupee', 'INR')], max_length=50)),",
         "detail": "apis.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apis.migrations.0002_videoconvertmodel",
+        "description": "apis.migrations.0002_videoconvertmodel",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('apis', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='VideoConvertModel',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('video', models.FileField(upload_to='video/%y')),",
+        "detail": "apis.migrations.0002_videoconvertmodel",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apis.migrations.0003_auto_20220520_0943",
+        "description": "apis.migrations.0003_auto_20220520_0943",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('apis', '0002_videoconvertmodel'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='userfileupload',\n            name='document_choices',\n        ),\n        migrations.AddField(",
+        "detail": "apis.migrations.0003_auto_20220520_0943",
+        "documentation": {}
+    },
+    {
+        "label": "VideoConvertView",
+        "kind": 6,
+        "importPath": "apis.videocon_api.api",
+        "description": "apis.videocon_api.api",
+        "peekOfCode": "class VideoConvertView(generics.GenericAPIView):\n    parser_classes = (FormParser, MultiPartParser)\n    serializer_class = VideoConvertSerializers\n    def post(self, request):\n        serializer = VideoConvertSerializers(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response({\"status\": \"success\", \"data\": serializer.data}, status=status.HTTP_200_OK)\n        else:\n            return Response({\"status\": \"error\", \"data\": serializer.errors}, status=status.HTTP_400_BAD_REQUEST)",
+        "detail": "apis.videocon_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "VideoConvertGetData",
+        "kind": 6,
+        "importPath": "apis.videocon_api.api",
+        "description": "apis.videocon_api.api",
+        "peekOfCode": "class VideoConvertGetData(APIView):\n    def get(self, request, id=None):\n        if id:\n            item = VideoConvertModel.objects.get(id=id)\n            if str(item.VIDEO_CHOICES) == \"GIF\":\n             file = str(item.video.path)\n             clip = VideoFileClip(file)\n             clip.write_gif(\"mygif.gif\",fps=1) # This line of code convert gif\n            elif str(item.VIDEO_CHOICES) == \"AUDIO\":\n                file = str(item.video.path)",
+        "detail": "apis.videocon_api.api",
+        "documentation": {}
+    },
+    {
+        "label": "VideoConvertSerializers",
+        "kind": 6,
+        "importPath": "apis.videocon_api.serializers",
+        "description": "apis.videocon_api.serializers",
+        "peekOfCode": "class VideoConvertSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = VideoConvertModel\n        fields = ('id','video','VIDEO_CHOICES')",
+        "detail": "apis.videocon_api.serializers",
         "documentation": {}
     },
     {
@@ -1647,7 +2316,7 @@
         "kind": 6,
         "importPath": "apis.models",
         "description": "apis.models",
-        "peekOfCode": "class Currency_convert(models.Model):\n    current_choice = models.CharField(max_length = 50 , choices= CONVERT_CHOICES)\n    amount = models.IntegerField()\n    convert_choice = models.CharField(max_length = 50 , choices= CONVERT_CHOICES)\n    result = models.IntegerField(null=True)\nCONVERT_CHOICESES = (\n    (\"pdftodocs\", \"PDF TO DOCX\"),\n    (\"docxtohtml\", \"DOCX TO HTML\"),\n    (\"htmltodoc\", \"HTML TO DOCX\"),\n    (\"pdftohtml\", \"PDF TO HTML\"),",
+        "peekOfCode": "class Currency_convert(models.Model):\n    current_choice = models.CharField(max_length = 50 , choices= CONVERT_CHOICES)\n    amount = models.IntegerField()\n    convert_choice = models.CharField(max_length = 50 , choices= CONVERT_CHOICES)\n    result = models.IntegerField(null=True)\nCONVERT_CHOICES = (\n    (\"pdf\", \"PDF\"),\n    (\"docx\", \"DOCX\"),\n    (\"html\", \"HTML\"),\n)",
         "detail": "apis.models",
         "documentation": {}
     },
@@ -1656,7 +2325,16 @@
         "kind": 6,
         "importPath": "apis.models",
         "description": "apis.models",
-        "peekOfCode": "class UserFileUpload(models.Model):\n   file = models.FileField() \n   document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICESES)",
+        "peekOfCode": "class UserFileUpload(models.Model):\n   current_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)\n   file = models.FileField() \n   convert_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)\nVIDEO_CHOICES = (\n    (\"GIF\",\"GIF\"),\n    (\"AUDIO\",\"AUDIO\"),\n    (\"Image\",\"Image\"),\n) \nclass VideoConvertModel(models.Model):",
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "VideoConvertModel",
+        "kind": 6,
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "peekOfCode": "class VideoConvertModel(models.Model):\n    video   = models.FileField(upload_to=\"video/%y\")\n    VIDEO_CHOICES = models.CharField(max_length=100 ,choices=VIDEO_CHOICES)",
         "detail": "apis.models",
         "documentation": {}
     },
@@ -1670,11 +2348,20 @@
         "documentation": {}
     },
     {
-        "label": "CONVERT_CHOICESES",
+        "label": "CONVERT_CHOICES",
         "kind": 5,
         "importPath": "apis.models",
         "description": "apis.models",
-        "peekOfCode": "CONVERT_CHOICESES = (\n    (\"pdftodocs\", \"PDF TO DOCX\"),\n    (\"docxtohtml\", \"DOCX TO HTML\"),\n    (\"htmltodoc\", \"HTML TO DOCX\"),\n    (\"pdftohtml\", \"PDF TO HTML\"),\n    (\"htmltopdf\", \"HTML TO PDF\"),\n)\nclass UserFileUpload(models.Model):\n   file = models.FileField() \n   document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICESES)",
+        "peekOfCode": "CONVERT_CHOICES = (\n    (\"pdf\", \"PDF\"),\n    (\"docx\", \"DOCX\"),\n    (\"html\", \"HTML\"),\n)\nclass UserFileUpload(models.Model):\n   current_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)\n   file = models.FileField() \n   convert_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)\nVIDEO_CHOICES = (",
+        "detail": "apis.models",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_CHOICES",
+        "kind": 5,
+        "importPath": "apis.models",
+        "description": "apis.models",
+        "peekOfCode": "VIDEO_CHOICES = (\n    (\"GIF\",\"GIF\"),\n    (\"AUDIO\",\"AUDIO\"),\n    (\"Image\",\"Image\"),\n) \nclass VideoConvertModel(models.Model):\n    video   = models.FileField(upload_to=\"video/%y\")\n    VIDEO_CHOICES = models.CharField(max_length=100 ,choices=VIDEO_CHOICES)",
         "detail": "apis.models",
         "documentation": {}
     },
@@ -1683,7 +2370,7 @@
         "kind": 5,
         "importPath": "apis.urls",
         "description": "apis.urls",
-        "peekOfCode": "urlpatterns = [\n    path('currencypostdata/', CurrencyConvertView.as_view()),\n    path('currencygetdata/<int:id>/',CurrencyConvertGetData.as_view()),\n    path('documentpostdata/', DocumentConvertView.as_view()),\n    path('documentgetdata/<int:id>/',DocumentConvertGetData.as_view()),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('currencypostdata/', CurrencyConvertView.as_view()),\n    path('currencygetdata/<int:id>/',CurrencyConvertGetData.as_view()),\n    path('documentpostdata/', DocumentConvertView.as_view()),\n    path('documentgetdata/<int:id>/',DocumentConvertGetData.as_view()),\n    path('videopostdata/',VideoConvertView.as_view()),\n    path('videogetdata/<int:id>/',VideoConvertGetData.as_view()),\n]",
         "detail": "apis.urls",
         "documentation": {}
     },
@@ -1859,6 +2546,15 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "currency.migrations.0020_auto_20220520_0943",
+        "description": "currency.migrations.0020_auto_20220520_0943",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('currency', '0019_alter_currency_convert_model_convert_choice_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='currency_convert_model',\n            name='id',\n            field=models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID'),\n        ),",
+        "detail": "currency.migrations.0020_auto_20220520_0943",
+        "documentation": {}
+    },
+    {
         "label": "CurrencyConfig",
         "kind": 6,
         "importPath": "currency.apps",
@@ -1917,53 +2613,17 @@
         "kind": 6,
         "importPath": "docum.migrations.0001_initial",
         "description": "docum.migrations.0001_initial",
-        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserFileUpload',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('file', models.FileField(upload_to='')),",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserFileUpload',\n            fields=[\n                ('id', models.UUIDField(default=uuid.uuid4, primary_key=True, serialize=False)),\n                ('current_choices', models.CharField(choices=[('pdf', 'PDF'), ('docx', 'DOCX'), ('html', 'HTML')], max_length=20)),",
         "detail": "docum.migrations.0001_initial",
         "documentation": {}
     },
     {
         "label": "Migration",
         "kind": 6,
-        "importPath": "docum.migrations.0002_userfileupload_document_choices",
-        "description": "docum.migrations.0002_userfileupload_document_choices",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'pdftodocs'), ('docstopdf', 'docstopdf')], default=1, max_length=20),\n            preserve_default=False,",
-        "detail": "docum.migrations.0002_userfileupload_document_choices",
-        "documentation": {}
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "docum.migrations.0003_alter_userfileupload_document_choices",
-        "description": "docum.migrations.0003_alter_userfileupload_document_choices",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0002_userfileupload_document_choices'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'PDF TO DOCX')], max_length=20),\n        ),",
-        "detail": "docum.migrations.0003_alter_userfileupload_document_choices",
-        "documentation": {}
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "docum.migrations.0004_alter_userfileupload_document_choices",
-        "description": "docum.migrations.0004_alter_userfileupload_document_choices",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0003_alter_userfileupload_document_choices'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'PDF TO DOCX'), ('docxtohtml', 'DOCX TO HTML')], max_length=20),\n        ),",
-        "detail": "docum.migrations.0004_alter_userfileupload_document_choices",
-        "documentation": {}
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "docum.migrations.0005_alter_userfileupload_document_choices",
-        "description": "docum.migrations.0005_alter_userfileupload_document_choices",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0004_alter_userfileupload_document_choices'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'PDF TO DOCX'), ('docxtohtml', 'DOCX TO HTML'), ('htmltodoc', 'HTML TO DOCX'), ('pdftohtml', 'PDF TO HTML')], max_length=20),\n        ),",
-        "detail": "docum.migrations.0005_alter_userfileupload_document_choices",
-        "documentation": {}
-    },
-    {
-        "label": "Migration",
-        "kind": 6,
-        "importPath": "docum.migrations.0006_alter_userfileupload_document_choices",
-        "description": "docum.migrations.0006_alter_userfileupload_document_choices",
-        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0005_alter_userfileupload_document_choices'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userfileupload',\n            name='document_choices',\n            field=models.CharField(choices=[('pdftodocs', 'PDF TO DOCX'), ('docxtohtml', 'DOCX TO HTML'), ('htmltodoc', 'HTML TO DOCX'), ('pdftohtml', 'PDF TO HTML'), ('htmltopdf', 'HTML TO PDF')], max_length=20),\n        ),",
-        "detail": "docum.migrations.0006_alter_userfileupload_document_choices",
+        "importPath": "docum.migrations.0002_auto_20220602_1323",
+        "description": "docum.migrations.0002_auto_20220602_1323",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('docum', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userfileupload',\n            name='secretid',\n            field=models.CharField(default=1, max_length=5),\n            preserve_default=False,",
+        "detail": "docum.migrations.0002_auto_20220602_1323",
         "documentation": {}
     },
     {
@@ -1980,7 +2640,7 @@
         "kind": 6,
         "importPath": "docum.forms",
         "description": "docum.forms",
-        "peekOfCode": "class UploadFileFormUser(forms.ModelForm):   \n   class Meta:\n      model = UserFileUpload\n      fields = '__all__'",
+        "peekOfCode": "class UploadFileFormUser(forms.ModelForm):   \n   class Meta:\n      model = UserFileUpload\n      fields = ['id','current_choices','file','convert_choices']",
         "detail": "docum.forms",
         "documentation": {}
     },
@@ -1998,7 +2658,7 @@
         "kind": 6,
         "importPath": "docum.models",
         "description": "docum.models",
-        "peekOfCode": "class UserFileUpload(models.Model):\n   file = models.FileField() \n   document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)",
+        "peekOfCode": "class UserFileUpload(models.Model):\n   current_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)\n   file = models.FileField() \n   convert_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)",
         "detail": "docum.models",
         "documentation": {}
     },
@@ -2007,8 +2667,44 @@
         "kind": 5,
         "importPath": "docum.models",
         "description": "docum.models",
-        "peekOfCode": "CONVERT_CHOICES = (\n    (\"pdftodocs\", \"PDF TO DOCX\"),\n    (\"docxtohtml\", \"DOCX TO HTML\"),\n    (\"htmltodoc\", \"HTML TO DOCX\"),\n    (\"pdftohtml\", \"PDF TO HTML\"),\n    (\"htmltopdf\", \"HTML TO PDF\"),\n)\nclass UserFileUpload(models.Model):\n   file = models.FileField() \n   document_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)",
+        "peekOfCode": "CONVERT_CHOICES = (\n    (\"pdf\", \"PDF\"),\n    (\"docx\", \"DOCX\"),\n    (\"html\", \"HTML\"),\n)\nclass UserFileUpload(models.Model):\n   current_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)\n   file = models.FileField() \n   convert_choices = models.CharField(max_length = 20,choices = CONVERT_CHOICES)",
         "detail": "docum.models",
+        "documentation": {}
+    },
+    {
+        "label": "go_to_sleep",
+        "kind": 2,
+        "importPath": "docum.task",
+        "description": "docum.task",
+        "peekOfCode": "def go_to_sleep(self, duration):\n  progress_recorder = ProgressRecorder(self)\n  result =0\n  for i in range(100):\n    sleep(duration)\n    result +=1\n    progress_recorder.set_progress(i + 1, duration)\n    #sleep(duration)\n    return result\n@shared_task",
+        "detail": "docum.task",
+        "documentation": {}
+    },
+    {
+        "label": "sleepy",
+        "kind": 2,
+        "importPath": "docum.task",
+        "description": "docum.task",
+        "peekOfCode": "def sleepy(duration):\n  sleep(duration)\n  return None\n@shared_task\ndef document_converter_celery_task_function(form_current_choices,form_file_data,form_convert_choices):\n  document_convert_celery_task(form_current_choices,form_file_data,form_convert_choices)\n  return None\nfrom celery.signals import task_postrun\n@task_postrun.connect(retry=True)\ndef task_postrun_handler(**kwargs):",
+        "detail": "docum.task",
+        "documentation": {}
+    },
+    {
+        "label": "document_converter_celery_task_function",
+        "kind": 2,
+        "importPath": "docum.task",
+        "description": "docum.task",
+        "peekOfCode": "def document_converter_celery_task_function(form_current_choices,form_file_data,form_convert_choices):\n  document_convert_celery_task(form_current_choices,form_file_data,form_convert_choices)\n  return None\nfrom celery.signals import task_postrun\n@task_postrun.connect(retry=True)\ndef task_postrun_handler(**kwargs):\n    if kwargs.pop('state') == 'IGNORED':\n        task = kwargs.pop('task')\n        task.update_state(state='IGNORED', meta=str(kwargs.pop('retval')))",
+        "detail": "docum.task",
+        "documentation": {}
+    },
+    {
+        "label": "task_postrun_handler",
+        "kind": 2,
+        "importPath": "docum.task",
+        "description": "docum.task",
+        "peekOfCode": "def task_postrun_handler(**kwargs):\n    if kwargs.pop('state') == 'IGNORED':\n        task = kwargs.pop('task')\n        task.update_state(state='IGNORED', meta=str(kwargs.pop('retval')))",
+        "detail": "docum.task",
         "documentation": {}
     },
     {
@@ -2016,8 +2712,26 @@
         "kind": 5,
         "importPath": "docum.urls",
         "description": "docum.urls",
-        "peekOfCode": "urlpatterns = [\n    path('',views.docx2pdf_converter, name = 'docversion'),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('docversion/',views.docx2pdf_converter, name = 'docversion'),\n    path('rom/<uuid:task_id>',views.get_progress , name = 'task_status'),\n]",
         "detail": "docum.urls",
+        "documentation": {}
+    },
+    {
+        "label": "document_convert_celery_task",
+        "kind": 2,
+        "importPath": "docum.utils",
+        "description": "docum.utils",
+        "peekOfCode": "def document_convert_celery_task(form_current_choices,form_file_data,form_convert_choices):\n    if str(form_current_choices) == \"pdf\":\n        if str(form_convert_choices) == \"docx\":\n            pdf_file = str(form_file_data)\n            word_file = \"test.docx\"\n            parse(pdf_file, word_file, start=0, end=None) \n            print(word_file,\"Done \")\n            file_save =  UserFileUpload(file = word_file)\n            file_save.save()\n    # End Code PDF file To Document File ",
+        "detail": "docum.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_progress",
+        "kind": 2,
+        "importPath": "docum.views",
+        "description": "docum.views",
+        "peekOfCode": "def get_progress(request, task_id):\n    progress = Progress(AsyncResult(str(task_id)))\n    return HttpResponse(json.dumps(progress.get_info()), content_type='application/json')\ndef docx2pdf_converter(request):\n    if request.method == 'POST':\n        form = UploadFileFormUser(request.POST, request.FILES)\n        if form.is_valid():\n            form_current_choices = form.cleaned_data['current_choices']\n            form_file_data = form.cleaned_data['file']\n            form_convert_choices= form.cleaned_data['convert_choices']",
+        "detail": "docum.views",
         "documentation": {}
     },
     {
@@ -2025,8 +2739,125 @@
         "kind": 2,
         "importPath": "docum.views",
         "description": "docum.views",
-        "peekOfCode": "def docx2pdf_converter(request):\n    if request.method == 'POST':\n        form = UploadFileFormUser(request.POST, request.FILES)\n        if form.is_valid():\n            form_file_data = form.cleaned_data['file']\n            form_choice_data = form.cleaned_data['document_choices']\n            # Convert PDF file To Document File Code\n            if str(form_choice_data) == \"pdftodocs\":\n                pdf_file = str(form_file_data)\n                word_file = \"test.docx\"",
+        "peekOfCode": "def docx2pdf_converter(request):\n    if request.method == 'POST':\n        form = UploadFileFormUser(request.POST, request.FILES)\n        if form.is_valid():\n            form_current_choices = form.cleaned_data['current_choices']\n            form_file_data = form.cleaned_data['file']\n            form_convert_choices= form.cleaned_data['convert_choices']\n            form_file_data = str(form_file_data)\n            form_convert_choices = str(form_convert_choices)\n            form_current_choices = str(form_current_choices)",
         "detail": "docum.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "videocon.migrations.0001_initial",
+        "description": "videocon.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Video',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('VIDEO_CHOICES', models.CharField(choices=[('GIF', 'GIF'), ('GPG', 'GPG')], max_length=100)),",
+        "detail": "videocon.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "videocon.migrations.0002_alter_video_video_choices",
+        "description": "videocon.migrations.0002_alter_video_video_choices",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('videocon', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='video',\n            name='VIDEO_CHOICES',\n            field=models.CharField(choices=[('GIF', 'GIF'), ('AUDIO', 'AUDIO'), ('Image', 'Image')], max_length=100),\n        ),",
+        "detail": "videocon.migrations.0002_alter_video_video_choices",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "videocon.migrations.0003_auto_20220520_0943",
+        "description": "videocon.migrations.0003_auto_20220520_0943",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('videocon', '0002_alter_video_video_choices'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='video',\n            name='id',\n            field=models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID'),\n        ),",
+        "detail": "videocon.migrations.0003_auto_20220520_0943",
+        "documentation": {}
+    },
+    {
+        "label": "VideoconConfig",
+        "kind": 6,
+        "importPath": "videocon.apps",
+        "description": "videocon.apps",
+        "peekOfCode": "class VideoconConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'videocon'",
+        "detail": "videocon.apps",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "videocon.celery",
+        "description": "videocon.celery",
+        "peekOfCode": "app = Celery('PyConversion')\napp.config_from_object('django.conf:settings', namespace='CELERY')\napp.autodiscover_tasks()",
+        "detail": "videocon.celery",
+        "documentation": {}
+    },
+    {
+        "label": "Video_form",
+        "kind": 6,
+        "importPath": "videocon.forms",
+        "description": "videocon.forms",
+        "peekOfCode": "class Video_form(forms.ModelForm):\n  class Meta:\n    model = Video\n    fields = '__all__'",
+        "detail": "videocon.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Video",
+        "kind": 6,
+        "importPath": "videocon.models",
+        "description": "videocon.models",
+        "peekOfCode": "class Video(models.Model):\n    video   = models.FileField(upload_to=\"video/%y\")\n    VIDEO_CHOICES = models.CharField(max_length=100 ,choices=VIDEO_CHOICES)",
+        "detail": "videocon.models",
+        "documentation": {}
+    },
+    {
+        "label": "VIDEO_CHOICES",
+        "kind": 5,
+        "importPath": "videocon.models",
+        "description": "videocon.models",
+        "peekOfCode": "VIDEO_CHOICES = (\n    (\"GIF\",\"GIF\"),\n    (\"AUDIO\",\"AUDIO\"),\n    (\"Image\",\"Image\"),\n) \nclass Video(models.Model):\n    video   = models.FileField(upload_to=\"video/%y\")\n    VIDEO_CHOICES = models.CharField(max_length=100 ,choices=VIDEO_CHOICES)",
+        "detail": "videocon.models",
+        "documentation": {}
+    },
+    {
+        "label": "sleepy",
+        "kind": 2,
+        "importPath": "videocon.tasks",
+        "description": "videocon.tasks",
+        "peekOfCode": "def sleepy(duration):\n  sleep(duration)\n  return None\n@shared_task\ndef VideoFunction(form_file_data,form_choice_data):\n  send_admin_mail(form_file_data,form_choice_data)\n  return None",
+        "detail": "videocon.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "VideoFunction",
+        "kind": 2,
+        "importPath": "videocon.tasks",
+        "description": "videocon.tasks",
+        "peekOfCode": "def VideoFunction(form_file_data,form_choice_data):\n  send_admin_mail(form_file_data,form_choice_data)\n  return None",
+        "detail": "videocon.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "videocon.urls",
+        "description": "videocon.urls",
+        "peekOfCode": "urlpatterns = [\n    path('video/', views.index , name = 'videocon'),\n]",
+        "detail": "videocon.urls",
+        "documentation": {}
+    },
+    {
+        "label": "send_admin_mail",
+        "kind": 2,
+        "importPath": "videocon.utils",
+        "description": "videocon.utils",
+        "peekOfCode": "def send_admin_mail(form_file_data,form_choice_data):\n  if str(form_choice_data) == \"GIF\":\n            file = str(form_file_data)\n            clip = VideoFileClip(file)\n            clip = clip.subclip(0,3)\n            clip.write_gif(\"mygif.gif\",fps=1) # This line of code convert gif\n  elif str(form_choice_data) == \"AUDIO\":\n      file = str(form_file_data)\n      video = VideoFileClip(file)\n      audio = video.audio                  # This line of code converting video file to audio file",
+        "detail": "videocon.utils",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "videocon.views",
+        "description": "videocon.views",
+        "peekOfCode": "def index(request):\n    if request.method =='POST':\n        form = Video_form(request.POST, request.FILES)\n        if form.is_valid():\n            form_file_data = form.cleaned_data['video']\n            form_choice_data = form.cleaned_data['VIDEO_CHOICES']\n            form_file_data = str(form_file_data)\n            form_choice_data = str(form_choice_data)\n            VideoFunction.delay(form_file_data,form_choice_data)\n    else:",
+        "detail": "videocon.views",
         "documentation": {}
     },
     {

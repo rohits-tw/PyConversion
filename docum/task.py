@@ -2,7 +2,7 @@ from __future__ import absolute_import
 from celery import shared_task
 import django.contrib
 from time import sleep
-from .utils import DocumentConvertCeleryTask
+from docum.utils import document_convert_celery_task
 from celery import  shared_task, Celery 
 from time import sleep
 from celery_progress.backend import ProgressRecorder
@@ -26,6 +26,15 @@ def sleepy(duration):
   return None
 
 @shared_task
-def document_converter_celery_task_function(form_current_choices,form_file_data,form_convert_choices):
-  DocumentConvertCeleryTask(form_current_choices,form_file_data,form_convert_choices)
+def document_converter_celery_task_function(form_current_choices,form_file_data,form_convert_choices,instance_id):
+  document_convert_celery_task(form_current_choices,form_file_data,form_convert_choices,instance_id)
   return None
+
+
+
+from celery.signals import task_postrun
+@task_postrun.connect(retry=True)
+def task_postrun_handler(**kwargs):
+    if kwargs.pop('state') == 'IGNORED':
+        task = kwargs.pop('task')
+        task.update_state(state='IGNORED', meta=str(kwargs.pop('retval')))

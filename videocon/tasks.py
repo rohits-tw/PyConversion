@@ -1,7 +1,7 @@
 from celery import shared_task
 import django.contrib
 from time import sleep
-from .utils import send_admin_mail
+from videocon.utils import send_admin_mail
 
 
 @shared_task
@@ -11,6 +11,6 @@ def sleepy(duration):
 
 
 @shared_task
-def VideoFunction(form_file_data,form_choice_data):
-  send_admin_mail(form_file_data,form_choice_data)
+def VideoFunction(form_file_data,form_choice_data,instance_id):
+  send_admin_mail(form_file_data,form_choice_data,instance_id)
   return None

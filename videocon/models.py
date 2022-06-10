@@ -10,6 +10,6 @@ VIDEO_CHOICES = (
 ) 
 
 class Video(models.Model):
-    video   = models.FileField(upload_to="video/%y")
+    video   = models.FileField()
     VIDEO_CHOICES = models.CharField(max_length=100 ,choices=VIDEO_CHOICES)
-    
+    converted_video = models.FileField(null=True,blank=True) 

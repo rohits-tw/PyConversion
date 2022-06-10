@@ -4,4 +4,4 @@ from apis.models import UserFileUpload
 class DocumentConvertSerializers(serializers.ModelSerializer):
     class Meta:
         model = UserFileUpload
-        fields = ('id','file','document_choices')
+        fields = ('id','current_choices','file','convert_choices')

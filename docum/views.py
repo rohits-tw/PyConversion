@@ -1,16 +1,17 @@
 import json
 from django.shortcuts import render ,redirect
 from django.http import HttpResponseRedirect,HttpResponse
-from .forms import UploadFileFormUser
-from .models import UserFileUpload
+from docum.forms import UploadFileFormUser
+from docum.models import UserFileUpload 
 from pdf2docx import parse
 import aspose.words as aw
 from htmldocx import HtmlToDocx
 import pdfkit
 import os 
-from .task import document_converter_celery_task_function
+import time
+from docum.task import document_converter_celery_task_function
 from django.shortcuts import render
-from .task import go_to_sleep
+from docum.task import go_to_sleep
 from celery.result import AsyncResult
 from celery_progress.backend import Progress
 from django.views.decorators.cache import never_cache
@@ -31,10 +32,23 @@ def docx2pdf_converter(request):
             form_file_data = str(form_file_data)
             form_convert_choices = str(form_convert_choices)
             form_current_choices = str(form_current_choices)
-            document_converter_celery_task_function.delay(form_current_choices,form_file_data,form_convert_choices)
+            fm=form.save()
+            instance_id =fm.id
+            result=document_converter_celery_task_function.delay(form_current_choices,form_file_data,form_convert_choices,instance_id)
+            print(result)
+            while result.status != 'SUCCESS':
+                time.sleep(1)
+            return redirect(f'/document/download/{instance_id}') 
     else:
         form = UploadFileFormUser()
-    tasks1 = go_to_sleep.delay(20)
+    tasks1 = go_to_sleep.delay(3)
     return render(request, 'docversion.html', {'form': form ,'task_id': tasks1.task_id})
 
 # End Document Conversion Code
+
+
+def downloadfile(request,id):
+    userfiledownload = UserFileUpload.objects.get(id=id)
+    return render(request,'download.html',{'download':userfiledownload})
+    
+        
